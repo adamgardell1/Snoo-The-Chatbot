@@ -1,3 +1,7 @@
+# Adam Gardell & Ludde Jahrl
+#
+# First chatbot to get familiar with the teqniques
+
 import nltk
 import numpy as np
 import random
