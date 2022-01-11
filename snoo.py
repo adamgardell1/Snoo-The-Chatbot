@@ -1,3 +1,8 @@
+# Adam Gardell & Ludde Jahrl
+#
+# Snoo the chatbot, based on tutorial https://medium.com/swlh/a-chatbot-in-python-using-nltk-938a37a9eacc
+# Data can be found in data folder. Reddit data is filtered with filterata.py 
+
 import csv
 import pandas as pd
 import nltk
