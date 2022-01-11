@@ -1,3 +1,7 @@
+# Adam Gardell & Ludde Lahrl
+#
+# Filters answers in reddit data by matching id in manually stripped question file.
+
 import pandas as pd
 import io
 import csv
